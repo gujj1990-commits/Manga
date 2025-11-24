@@ -1,9 +1,9 @@
 {
   "title": "Spice & Wolf",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "description": "A young traveling merchant, Kraft Lawrence has become accustomed to days of roaming and trading, with few companions. Or so it was until one peculiar day where the trader finds a young, naked, wolf-like girl asleep in his wagon.\nThe beautiful girl, calling herself Holo, claims to be a local wolf deity worshipped by locals as the God of Good Harvest. Year after year, she ensured they would reap a good harvest, but she has since grown tired of fulfilling the wishes of the ungrateful locals.\nHolo ends up striking a deal with Kraft: if he helps her escape the villagers, she will gladly help him in his merchant endeavors. Together, they roam from town to town in search of business, and Kraft realizes both the ups and downs of traveling with a haughty and shrewd wolf goddess.",
+  "artist": " Isuna Hasekura ",
+  "author": "Juu Ayakura ",
+  "cover": "https://i.imgur.com/cVU9tQe.jpeg",
   "chapters": {
     "1": {
       "title": "chapter 1",
@@ -11,6 +11,14 @@
       "last_updated": "1763740205",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ej7mablpn7d"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1764004990",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yx9zovqyq"
       }
     }
   }
