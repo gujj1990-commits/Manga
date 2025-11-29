@@ -996,6 +996,14 @@
       "groups": {
         "": "/proxy/api/imgchest/chapter/qb4zp9gplyj"
       }
+    },
+    "112.5": {
+      "title": "112.5",
+      "volume": "15",
+      "last_updated": "1764429066",
+      "groups": {
+        "": "https://imgchest.com/profile"
+      }
     }
   }
 }
