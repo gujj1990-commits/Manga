@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "https://i.imgur.com/k09fuxs.jpeg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "chapter 1",
+      "volume": "",
+      "last_updated": "1767368289",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7b695bny5"
+      }
+    }
+  }
 }
