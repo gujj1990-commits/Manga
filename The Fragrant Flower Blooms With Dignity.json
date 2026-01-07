@@ -1383,7 +1383,7 @@
     },
     "173": {
       "title": "chapter 173",
-      "volume": "",
+      "volume": "23",
       "last_updated": "1766602893",
       "groups": {
         "": "/proxy/api/imgchest/chapter/o24a6ma8eyl"
@@ -1391,10 +1391,18 @@
     },
     "174": {
       "title": "chapter 174",
-      "volume": "",
+      "volume": "23",
       "last_updated": "1767198048",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qe4gq3wvj7j"
+      }
+    },
+    "175": {
+      "title": "chapter 175",
+      "volume": "23",
+      "last_updated": "1767800851",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvnkd3k48"
       }
     },
     "12.5": {
