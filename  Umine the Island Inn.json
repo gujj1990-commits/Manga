@@ -20,6 +20,14 @@
       "groups": {
         "K Manga": "/proxy/api/imgchest/chapter/bp456dm5x75"
       }
+    },
+    "3": {
+      "title": "chapter 3",
+      "volume": "",
+      "last_updated": "1769529805",
+      "groups": {
+        "K Manga": "/proxy/api/imgchest/chapter/ne7bnd5bg75"
+      }
     }
   }
 }
