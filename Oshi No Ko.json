@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "https://i.imgur.com/h24ytVD.jpeg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "chapter 1",
+      "volume": "",
+      "last_updated": "1771357008",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2n6wjzyl"
+      }
+    }
+  }
 }
