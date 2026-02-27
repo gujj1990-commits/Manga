@@ -1013,22 +1013,6 @@
         "": "/proxy/api/imgchest/chapter/6eyr622q6yp"
       }
     },
-    "126.6": {
-      "title": "chapter 125.6",
-      "volume": "",
-      "last_updated": "1772199069",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvl66mz78"
-      }
-    },
-    "127.7": {
-      "title": "chapter 125.7",
-      "volume": "",
-      "last_updated": "1772199157",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/pg738ppz34r"
-      }
-    },
     "125.8": {
       "title": "125.8",
       "volume": "",
@@ -1037,6 +1021,14 @@
         "": [
           ""
         ]
+      }
+    },
+    "125.6": {
+      "title": "chapter 125.6",
+      "volume": "",
+      "last_updated": "1772199363",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvl66mz78"
       }
     }
   }
