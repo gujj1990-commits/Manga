@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "https://i.imgur.com/Gnu6cF2.jpeg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "The Fairy's Tail",
+      "volume": "",
+      "last_updated": "1776461414",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny8rnw824b"
+      }
+    }
+  }
 }
