@@ -636,6 +636,14 @@
       "groups": {
         "": "/proxy/api/imgchest/chapter/ljyqbqpbky2"
       }
+    },
+    "80": {
+      "title": "Joan of Arc",
+      "volume": "",
+      "last_updated": "1779976798",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4na2odlyn"
+      }
     }
   }
 }
