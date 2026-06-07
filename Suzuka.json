@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "https://i.imgur.com/hskp5TV.jpeg",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "Suzuka",
+      "volume": "",
+      "last_updated": "1780832776",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bjqngg45"
+      }
+    }
+  }
 }
