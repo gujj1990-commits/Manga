@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "https://i.imgur.com/dMNufXX.jpeg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "The Birth of a Slave",
+      "volume": "",
+      "last_updated": "1783932259",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4g9p6vqyj"
+      }
+    }
+  }
 }
