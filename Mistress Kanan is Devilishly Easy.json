@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "https://i.imgur.com/vvhppzy.jpeg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "chapter 1",
+      "volume": "",
+      "last_updated": "1786086822",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bzqz3v75"
+      }
+    }
+  }
 }
