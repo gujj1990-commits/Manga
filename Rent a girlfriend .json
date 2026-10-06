@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "443": {
+      "title": "chapter 443",
+      "volume": "",
+      "last_updated": "1791300593",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87waj2xb4x"
+      }
+    }
+  }
 }
